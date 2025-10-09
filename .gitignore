@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Results folder
+# This contains large model files and many images, which shouldn't be on GitHub.
+runs/
+
+# IDE specific files
+.vscode/
+.idea/
